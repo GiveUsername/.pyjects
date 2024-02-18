@@ -9,10 +9,8 @@ from PIL import ImageGrab
 def get_pixel_color_above_cursor():
     x, y = pyautogui.position()
     
-    # Grab the screenshot
     screenshot = ImageGrab.grab()
     
-    # Check if the cursor position is within the bounds of the screenshot
     if 0 <= x < screenshot.width and 0 <= y < screenshot.height:
         # Retrieve the pixel color at the cursor position
         pixel_color = screenshot.getpixel((x, y))
