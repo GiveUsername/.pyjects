@@ -18,4 +18,4 @@
 - You may not use the material for commercial purposes.
 - If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-You may obtain a copy of the License at https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.
+You may obtain a copy of the License or find more information at https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.
