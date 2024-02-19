@@ -1,5 +1,7 @@
 # Created by GiveUsername; aka nspe
 # Todo: Captcha Solver
+# Description:
+     # // Can automatically create a number of unique roblox accounts. There are 7.992 × 10^11 unique names. Thats almost 8 Billion accounts.
 
 import os
 import sys
